@@ -7,9 +7,10 @@ The main objective is to explore how various vehicle attributes — such as engi
 
 ## 🔧 Project Details
 
-**Language:** R
-**Dataset:** `mpg` (from `ggplot2` package)
-**Goal:** To understand how engine characteristics and vehicle type affect mileage (MPG).
+**Language:** R  
+**Dataset:** `mpg` (from `ggplot2` package)  
+**Goal:** To understand how engine characteristics and vehicle type affect mileage (MPG).  
+
 
 ---
 
