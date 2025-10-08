@@ -1,6 +1,6 @@
-# 🚗 Dataset Analysis (mpg) — R Script Documentation
+# 🚗 Exploratory Data Analysis (EDA) — mpg Dataset
 
-This project performs a comprehensive **exploratory data analysis (EDA)** on the built-in `mpg` dataset from the `ggplot2` package in R.
+This project performs a comprehensive exploratory data analysis (EDA) on the built-in `mpg` dataset from the `ggplot2` package in R.
 The main objective is to explore how various vehicle attributes — such as engine size, number of cylinders, and drive type — influence fuel efficiency.
 
 ---
@@ -119,8 +119,8 @@ Highlights variables that could be used for predictive modeling:
 ## 🎯 Key Insights
 
 * Vehicles with **larger engines** generally have **lower fuel efficiency**.
-* **City and highway mileage** values increase together, indicating strong correlation.
-* **Compact and subcompact cars** provide the highest mileage.
+* **City** and  **highway mileage** values **increase** together, indicating **strong correlation**.
+* **Compact** and **subcompact cars** provide the **highest mileage**.
 * Dataset is clean, well-structured, and ready for regression or classification modeling.
 
 ---
