@@ -1,7 +1,7 @@
 # 🚗 Dataset Analysis (mpg) — R Script Documentation
 
-This project performs a **comprehensive exploratory data analysis (EDA)** on the built-in `mpg` dataset from the `ggplot2` package in R.
-The main objective is to explore how various vehicle attributes — such as engine size, number of cylinders, and drive type — influence **fuel efficiency**.
+This project performs a comprehensive **exploratory data analysis (EDA)** on the built-in `mpg` dataset from the `ggplot2` package in R.
+The main objective is to explore how various vehicle attributes — such as engine size, number of cylinders, and drive type — influence fuel efficiency.
 
 ---
 
@@ -50,7 +50,7 @@ It includes both numeric and categorical variables related to performance and cl
 
 ### **Step 3: Univariate Analysis**
 
-These graphs show **one variable at a time** to understand its distribution.
+These graphs show one variable at a time to understand its distribution.
 
 * **Histogram of `hwy` (Highway Mileage):**
 
@@ -78,7 +78,7 @@ These graphs show **one variable at a time** to understand its distribution.
 
 ### **Step 4: Bivariate Analysis**
 
-These plots compare **two variables** to reveal their relationship.
+These plots compare two variables to reveal their relationship.
 
 * **Scatter Plot (Engine Size vs Highway Mileage):**
 
@@ -92,7 +92,7 @@ These plots compare **two variables** to reveal their relationship.
 
 ### **Step 5: Multivariate Analysis**
 
-This step explores **multiple numeric variables** together using pairwise relationships.
+This step explores multiple numeric variables together using pairwise relationships.
 
 * **Pairs Plot:**
 
