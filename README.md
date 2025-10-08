@@ -2,7 +2,6 @@
 
 This project performs a **comprehensive exploratory data analysis (EDA)** on the `mpg` dataset available in R. The analysis aims to discover trends, patterns, and relationships between vehicle features and fuel efficiency metrics.
 
----
 
 ## 🔧 Project Details
 
@@ -10,25 +9,6 @@ This project performs a **comprehensive exploratory data analysis (EDA)** on the
 **Dataset:** `mpg` (from `ggplot2` package)
 **Focus:** Understanding how engine size, cylinders, and other variables influence fuel consumption.
 
----
-
-## 📦 Dependencies
-
-Before running the script, install these required libraries:
-
-```R
-install.packages(c("ggplot2", "dplyr", "ggcorrplot"))
-```
-
-Then load them in your R session:
-
-```R
-library(ggplot2)
-library(dplyr)
-library(ggcorrplot)
-```
-
----
 
 ## 📚 Dataset Overview
 
@@ -39,8 +19,6 @@ The `mpg` dataset contains observations on various car models and includes:
 * `cyl` (number of cylinders)
 * `cty`, `hwy` (city and highway miles per gallon)
 * `drv`, `fl`, `class`, `trans`
-
----
 
 ## 🧩 Analysis Breakdown
 
@@ -79,7 +57,6 @@ Defines key variables for predictive modeling:
 * **Predictors:** `displ`, `cty`, `cyl`
 * **Categorical variables:** `manufacturer`, `class`, `trans`, etc.
 
----
 
 ## 🎯 Key Insights
 
@@ -87,15 +64,9 @@ Defines key variables for predictive modeling:
 * City and highway mileage are **strongly correlated**.
 * Certain vehicle classes (e.g., compact, subcompact) perform better on mileage.
 
----
 
-## ▶️ How to Run
 
-1. Open RStudio or any R environment.
-2. Copy the full script into your editor.
-3. Run the code step by step to visualize outputs.
 
----
 
 
 
